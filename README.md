@@ -1,6 +1,5 @@
+# def ABOUT_ME():
 
-# ABOUT ME!
-def ABOUT_ME():
     data1 = sabog_24_7 = True
     data2 = tnga_mongoloid = True
     data3 = tamad_magcode = True
