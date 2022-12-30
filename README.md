@@ -6,7 +6,7 @@
     data4 = ayaw_sa_stackoverflow = False
     data5 = d_mkatulog_pag_may_bug = True
     data6 = bobo_sa_math_pergustomag_comsci = True
-    data7 = medj_hirap_sa_OOB_proglang = True
+
     
 
 
