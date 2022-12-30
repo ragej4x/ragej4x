@@ -15,7 +15,7 @@
               data7
               ]
 
-    for num in range(0 , 7):
+    for num in range(0 , 6):
         data = f'data{num + 1}'
         print(data ,D_list[num])
 
