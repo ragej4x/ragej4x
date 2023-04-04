@@ -14,4 +14,4 @@ Accounts
 
 
 
-<p><img align="center" tsrc="https://raw.githubusercontent.com/ragej4x/ragej4x/main/nyan-cat-60fps.gif" width="1050" height="320"/></p>
+<p><img align="center" tsrc="https://github.com/ragej4x/ragej4x/blob/main/nyan-cat-60fps.gif" width="1050" height="320"/></p>
