@@ -40,11 +40,11 @@
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ragej4x&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?ragej4x=BrantLauro&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragej4x&theme=react&layout=compact" />
 </p>
 
 ------
 
-[BrantLauro](https://github.com/BrantLauro)
+[BrantLauro](https://github.com/ragej4x)
 
 Last Edited on: 05/08/2021
