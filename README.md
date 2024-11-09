@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jim <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A beginner or medium pro developer from Philippines 🇵🇭</h3>
-
+<h3 align="center">Bawang kaba?</h3>
 
 
 
