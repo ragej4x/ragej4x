@@ -3,7 +3,7 @@
 <h3 align="center">Bawang kaba?</h3>
 
 
-
+---
 
 - 🔭 I’m currently working on my **Life**
 
